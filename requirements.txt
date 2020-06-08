@@ -1,0 +1,8 @@
+pandas = 1.0.3
+numpy = 1.18.1
+regex = 2.2.1
+nltk (stopwords) = 3.5
+xgb = 1.1.0
+scikitlearn = 0.22.0
+wordcloud = 1.7.0
+matplotlib = 3.1.3
